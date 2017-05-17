@@ -14,13 +14,19 @@ namespace Encryptor
 
             public void setArray()
             {
-                int a = 3;
-                int b = 5;
+                Random rand = new Random();
+                int a = rand.Next(1, 10);
+                int b = rand.Next(1, 10);
+
                 int x, y, m;
+
                 char c = 'a';
+
                 int i;
+
                 System.Text.StringBuilder s = new System.Text.StringBuilder();
-                for (i = 0; i < 26; i++)
+
+                for (i = 0; i< 26; i++)
                 {
                     x = c;
                     y = x * a + b;
