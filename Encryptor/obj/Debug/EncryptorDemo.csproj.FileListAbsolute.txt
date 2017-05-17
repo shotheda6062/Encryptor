@@ -1,0 +1,6 @@
+E:\Encryptor\Encryptor\bin\Debug\Encryptor.exe.config
+E:\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+E:\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+E:\Encryptor\Encryptor\obj\Debug\EncryptorDemo.csprojResolveAssemblyReference.cache
+E:\Encryptor\Encryptor\obj\Debug\Encryptor.exe
+E:\Encryptor\Encryptor\obj\Debug\Encryptor.pdb
